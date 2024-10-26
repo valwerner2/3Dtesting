@@ -1,10 +1,3 @@
 # ninja log v6
-7	663	7516366172250385	CMakeFiles/3Dtesting.dir/main.cpp.obj	628e0f7e4fc24493
-452	528	7516364665975471	3Dtesting.exe	6ea86bd7a32cfa40
-5	728	7516368997522603	CMakeFiles/3Dtesting.dir/main.cpp.obj	628e0f7e4fc24493
-728	798	7516369004749355	3Dtesting.exe	6ea86bd7a32cfa40
-5	644	7516369253356492	CMakeFiles/3Dtesting.dir/main.cpp.obj	628e0f7e4fc24493
-4	776	7516369305301338	CMakeFiles/3Dtesting.dir/main.cpp.obj	628e0f7e4fc24493
-776	853	7516369313029672	3Dtesting.exe	6ea86bd7a32cfa40
 5	680	7516369385978231	CMakeFiles/3Dtesting.dir/main.cpp.obj	628e0f7e4fc24493
 680	749	7516369392725915	3Dtesting.exe	6ea86bd7a32cfa40
